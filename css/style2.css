@@ -1,0 +1,33 @@
+h2{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+ .flex-container {
+    display: flex;
+    justify-content: center;
+    
+    
+    }
+  
+  .flex-container > div {
+    
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 30px;
+    display: inline-flex;
+
+  }
+  figure img {
+    display: block;
+    width: 200px;
+    
+    height: 200px; 
+    margin: auto; 
+ }
+ figcaption{
+     font-family: fantasy;
+     font-size: 30px;
+     
+     text-align: left;
+ }
